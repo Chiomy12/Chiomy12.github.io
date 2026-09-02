@@ -1,3 +1,6 @@
 title: Chioma Nwawuba
 logo: data.jpg
 description: I am a data analyst that is highly profcient with the use of excel, powerbi and sql for data manupulation
+#show_downloads: true
+#goggle_analytics:
+theme: jekyll-theme-minimal
