@@ -15,3 +15,5 @@ The analysis focuses on identifying top-performing and underperforming products 
 **Dashboard Overview** 
 
 ![zara](zara.png)
+
+**[View Project →](Project%201%20-%20Zara%20Sales%20Analysis/)**
