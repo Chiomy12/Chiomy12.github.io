@@ -7,11 +7,9 @@
 The analysis focuses on identifying top-performing and underperforming products and generating insights that could support inventory planning, stock replenishment and retail decision-making. The project demonstrates the use of Microsoft Excel, Power Query and Power BI to clean, analyse and visualise retail sales data.
 
 **Project Objectives**  The main objectives of this project were to:
-
-Analyse sales performance across different Zara products
-
-Identify the top-performing products based on sales revenue and quantity sold
-Identify products with lower sales performance
+_Analyse sales performance across different Zara products
+_Identify the top-performing products based on sales revenue and quantity sold
+_Identify products with lower sales performance
 Compare sales volume and total sales
 Identify patterns that could support inventory and restocking decisions
 Build an interactive dashboard to communicate the findings clearly
@@ -80,9 +78,6 @@ Pivot Tables & Calculations
 Power BI Visualisation
 ↓
 Dashboard & Key Insights
-↓
-Business Recommendations
-
 
 **Conclusion**
 This project demonstrates how retail sales data can be transformed into meaningful business insights using Excel, Power Query and Power BI.
