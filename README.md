@@ -15,16 +15,16 @@ The analysis focuses on identifying top-performing and underperforming products 
 - Build an interactive dashboard to communicate the findings clearly
 
 **Dataset**   The dataset contains retail sales information for different Zara products.
-Key fields used in the analysis include:
-Product/category
-Quantity sold
-Price
-Sales/revenue-related information
+Key fields used in the analysis include: <br>
+Product/category<br>
+Quantity sold<br>
+Price<br>
+Sales/revenue-related information<br>
 The dataset was used to evaluate product performance based on both sales volume and total revenue.
 
 **Data Cleaning & Preparation**
-Before performing the analysis, the dataset was reviewed and prepared to ensure that the data was suitable for analysis.
-*Power Query*
+Before performing the analysis, the dataset was reviewed and prepared to ensure that the data was suitable for analysis.<br>
+**Power Query**<br>
 Power Query in Excel was used to:
 - Import and transform the dataset
 - Review and correct data types
@@ -35,21 +35,21 @@ Power Query in Excel was used to:
 
 
 **Key Findings**
-Top-Performing Product
-Jackets were the top-performing product category based on the combined consideration of sales revenue and sales volume.
-Total Sales: $26,581,815.87
-Total Units Sold: 259,468
+**Top-Performing Product**<br>
+Jackets were the top-performing product category based on the combined consideration of sales revenue and sales volume.<br>
+Total Sales: $26,581,815.87<br>
+Total Units Sold: 259,468<br>
 This indicates strong demand for jackets within the dataset.
-Product Performance
+**Product Performance**<br>
 The analysis also showed differences between products when comparing revenue generated and quantity sold.
 This comparison is useful because a product with a high sales volume does not necessarily generate the highest revenue, while a product with a higher price may generate significant revenue despite having a lower sales volume.
 
 **Business Insights**
-The analysis provides several insights that could support retail decision-making:
-**Inventory Planning** Products with consistently high sales volume may require higher stock availability to reduce the risk of stock shortages.
-**Restocking** High-performing products can be monitored more closely when making replenishment decisions.
-**Product Performance** Comparing revenue and quantity sold provides a clearer picture of which products are contributing most to overall sales.
-**Underperforming Products**Products with relatively low sales performance can be further investigated to understand whether pricing, demand or inventory levels may be contributing factors.
+The analysis provides several insights that could support retail decision-making:<br>
+**Inventory Planning** Products with consistently high sales volume may require higher stock availability to reduce the risk of stock shortages.<br>
+**Restocking** High-performing products can be monitored more closely when making replenishment decisions.<br>
+**Product Performance** Comparing revenue and quantity sold provides a clearer picture of which products are contributing most to overall sales.<br>
+**Underperforming Products**Products with relatively low sales performance can be further investigated to understand whether pricing, demand or inventory levels may be contributing factors.<br>
 
 
 **Tools & Skills Demonstrated**
@@ -57,7 +57,7 @@ Tool	Skills Demonstrated
 - Microsoft Excel:	Data analysis, formulas, Pivot Tables, conditional formatting
 - Power Query:	Data cleaning, transformation and preparation
 - Power BI:	Data visualisation, dashboard development and KPI analysis
-**Key Excel Functions**
+**Key Excel Functions**<br>
 SUMIFS
 Aggregation and calculations
 Pivot Tables
