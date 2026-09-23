@@ -37,4 +37,6 @@ Excel | Power Query | Pivot Tables | Data Visualisation
 - Used Pivot Tables, slicers and visualisations to explore sales patterns and present insights through an interactive dashboard
 
   **Dashboard Overview**
-  ![coffee](coffee.png)
+  ![coffee](Project%202%20-%20Coffee%20Shop%20Sales%20Analysis/coffee.png)
+
+  **[View Project →](Project 2 - Coffee Sales Analysys)**
