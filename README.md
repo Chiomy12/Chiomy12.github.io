@@ -8,11 +8,11 @@ The analysis focuses on identifying top-performing and underperforming products 
 
 **Project Objectives**  The main objectives of this project were to:
 - Analyse sales performance across different Zara products
-_Identify the top-performing products based on sales revenue and quantity sold
-_Identify products with lower sales performance
-Compare sales volume and total sales
-Identify patterns that could support inventory and restocking decisions
-Build an interactive dashboard to communicate the findings clearly
+- Identify the top-performing products based on sales revenue and quantity sold
+- Identify products with lower sales performance
+- Compare sales volume and total sales
+- Identify patterns that could support inventory and restocking decisions
+- Build an interactive dashboard to communicate the findings clearly
 
 **Dataset**   The dataset contains retail sales information for different Zara products.
 Key fields used in the analysis include:
@@ -26,13 +26,12 @@ The dataset was used to evaluate product performance based on both sales volume 
 Before performing the analysis, the dataset was reviewed and prepared to ensure that the data was suitable for analysis.
 *Power Query*
 Power Query in Excel was used to:
-
-Import and transform the dataset
-Review and correct data types
-Clean and organise the data
-Prepare the dataset for analysis
-Ensure that the data was consistent before creating summaries and visualisations
-This created a cleaner and more reliable dataset for the subsequent analysis.
+- Import and transform the dataset
+- Review and correct data types
+- Clean and organise the data
+- Prepare the dataset for analysis
+- Ensure that the data was consistent before creating summaries and visualisations
+- This created a cleaner and more reliable dataset for the subsequent analysis.
 
 
 **Key Findings**
@@ -55,9 +54,9 @@ The analysis provides several insights that could support retail decision-making
 
 **Tools & Skills Demonstrated**
 Tool	Skills Demonstrated
-Microsoft Excel:	Data analysis, formulas, Pivot Tables, conditional formatting
-Power Query:	Data cleaning, transformation and preparation
-Power BI:	Data visualisation, dashboard development and KPI analysis
+- Microsoft Excel:	Data analysis, formulas, Pivot Tables, conditional formatting
+- Power Query:	Data cleaning, transformation and preparation
+- Power BI:	Data visualisation, dashboard development and KPI analysis
 **Key Excel Functions**
 SUMIFS
 Aggregation and calculations
@@ -67,17 +66,17 @@ Conditional formatting
 **Project Workflow**
 The project followed the following workflow:
 
-Raw Dataset
-↓
-Data Cleaning & Transformation
-↓
-Exploratory Analysis in Excel
-↓
-Pivot Tables & Calculations
-↓
-Power BI Visualisation
-↓
-Dashboard & Key Insights
+**Raw Dataset**  
+↓  
+**Data Cleaning & Transformation**  
+↓  
+**Exploratory Analysis in Excel**  
+↓  
+**Pivot Tables & Calculations**  
+↓  
+**Power BI Visualisation**  
+↓  
+**Dashboard & Key Insights**
 
 **Conclusion**
 This project demonstrates how retail sales data can be transformed into meaningful business insights using Excel, Power Query and Power BI.
