@@ -39,12 +39,12 @@ Power Query in Excel was used to:
 Jackets were the top-performing product category based on the combined consideration of sales revenue and sales volume.<br>
 Total Sales: $26,581,815.87<br>
 Total Units Sold: 259,468<br>
-This indicates strong demand for jackets within the dataset.
+This indicates strong demand for jackets within the dataset.<br>
 **Product Performance**<br>
 The analysis also showed differences between products when comparing revenue generated and quantity sold.
 This comparison is useful because a product with a high sales volume does not necessarily generate the highest revenue, while a product with a higher price may generate significant revenue despite having a lower sales volume.
 
-**Business Insights**
+**Business Insights**<br>
 The analysis provides several insights that could support retail decision-making:<br>
 **Inventory Planning** Products with consistently high sales volume may require higher stock availability to reduce the risk of stock shortages.<br>
 **Restocking** High-performing products can be monitored more closely when making replenishment decisions.<br>
@@ -63,7 +63,7 @@ Aggregation and calculations
 Pivot Tables
 Conditional formatting
 
-**Project Workflow**
+**Project Workflow**<br>
 The project followed the following workflow:
 
 **Raw Dataset**  
