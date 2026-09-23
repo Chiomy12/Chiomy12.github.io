@@ -39,4 +39,4 @@ Excel | Power Query | Pivot Tables | Data Visualisation
   **Dashboard Overview**
   ![coffee](Project%202%20-%20Coffee%20Shop%20Sales%20Analysis/coffee.png)
 
-  **[View Project →](Project 2 - Coffee Sales Analysys)**
+  **[View Project →](Project 2 - Coffee Sales Analysys/)**
