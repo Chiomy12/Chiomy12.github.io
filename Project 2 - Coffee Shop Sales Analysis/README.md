@@ -100,5 +100,5 @@ Data Analysis | Data Cleaning | Excel | Power Query | Pivot Tables | Pivot Chart
 
 **Dashboard Overview**
 
-![Coffee](coffee.png)
+ ![coffee](Project%202%20-%20Coffee%20Shop%20Sales%20Analysis/coffee.png)
 
