@@ -100,4 +100,4 @@ Data Analysis | Data Cleaning | Excel | Power Query | Pivot Tables | Pivot Chart
 
 **Dashboard Overview**
 
-[Coffee](Coffee%20Shop%20Sales%20Analysis/coffee.png)
+![Coffee](Coffee%20Shop%20Sales%20Analysis/coffee.png)
