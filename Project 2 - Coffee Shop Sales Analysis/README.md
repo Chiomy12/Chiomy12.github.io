@@ -2,7 +2,7 @@
 
 # Project 2 - Coffe Shop Sales Analysis
 
-**Title** [Coffee Shop Sales Analysis](https://github.com/Chiomy12/Chiomy12.github.io/tree/main/Project%202%20-%20Coffee%20Shop%20Sales%20Analysis)
+**Title** [Coffee](https://github.com/Chiomy12/Chiomy12.github.io/tree/main/Project%202%20-%20Coffee%20Shop%20Sales%20Analysis)
 
 **Project Description**<br>
 
@@ -100,4 +100,4 @@ Data Analysis | Data Cleaning | Excel | Power Query | Pivot Tables | Pivot Chart
 
 **Dashboard Overview**
 
-[Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20Dashboard.png)
+[Coffee](Coffee%20Shop%20Sales%20Analysis/coffee.png)
